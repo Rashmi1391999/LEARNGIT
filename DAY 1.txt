@@ -1,0 +1,122 @@
+SYLLABUS
+
+PART-1
+
+# Introduction to Networking
+# OSI Reference Model
+# Ethernet Technologies
+# Hubs Vs Switches Vs Routers
+# IPV4 Addressing & Subnetting
+# TCP & UDP
+
+PART-2
+
+# Router components
+# Introduction to CISCO IOS
+# Advanced functions in CISCO IOS
+
+PART-3 
+
+# The Routing Table
+# Types of Routing
+# Static Vs Dynamic Routing
+# Classfull & Classless routing
+# Configuring Static Routes
+# Configuring Default Routes
+# RIPV1 & RIPV2
+# EIGRP
+# OSPF
+
+PART-4
+
+# Introduction to Switching
+# VLANs
+# Access Ports & Trunk Ports
+# Trunk Encapsulation Protocols
+# DTP
+# VTP
+# Etherchannel
+# Inter-VLAN Routing
+# DHCP
+# Access-lists
+# DNS
+# NAT
+# HSRP
+# VRRP
+
+PART-5 
+
+# Switch Security
+# Security Technologies
+# Introduction to Wireless
+# Introduction to SDN (Software Defined Networking)
+# Introduction to Automation
+
+
+
+
+DAY-1
+
+NETWORK : is simply defined as something that connects things together for a specific purpose. ( to share information)
+
+          EG: Computers, Mobile Phones ,Tablets,
+		  
+		  => a computer network connects two or more devices together to share a nearly limitless range of information and services
+		  
+		  EG : Documents
+		       Email and IM ( Instant Messeging)
+			   Websites
+			   storing and accessing information from Databases
+			   Streaming Music
+			   Printers 
+			   Telephony
+			   Video conferencing
+			   
+
+Protocols : Are the rules or set of instructions to enable communication
+
+EG : HTTP ( Hyper text transfer protocol)
+     HTTPS ( Secure HTTP)
+     FTP (file transfer protocol)
+     TFTP	 (Trivial FTP)
+	 SMTP ( Simple mail transfer protocol) 
+	 
+
+Reference Model : Its developed to allow products from different manufactures to interoperate on a network.
+                      it act  as a  blueprint, detailing standards for how the device should work in a network enviornment 
+					  and how communication should work.
+					  
+					  The current Reference model we use now is ISO-OSI reference model.
+					  Before OSI model there was DoD model ( Department of Defense )
+					  
+NETWORK TYPES 
+
+1. LAN ( LOCAL AREA NETWORK )
+=> A network that spans in a small area
+=> a high speed network
+=> managed by an organization or a person
+
+  eg: Network in office building
+      Network in Campus
+      Network in Home
+      Network In Corporate offices
+
+	  
+	  
+	  
+
+	  
+					  
+					  
+ 
+	 
+	 
+	 
+			   
+			   
+			   
+			   
+
+
+
+
